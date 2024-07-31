@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ahorcadox</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="img.svg" type="image/x-icon">
+  </head>
+  <body>
+    <header class="cabezal">
+      <h1 class="titulo">Bienvenidos a Ahorcadox</h1>
+      <img src="img.svg" alt="bomba">
+    </header>
+    <main class="container-main">
+      <label class="descripcion"
+        >Palabra secreta: <input class="input" type="password" id="palabra" />
+      </label>
+      <button class="boton" onclick="iniciar()">Iniciar</button>
+
+      <label class="descripcion"
+        >Letra:
+        <input class="input" type="text" id="intentos" />
+      </label>
+
+      <button class="boton" onclick="comprobrar()">Comprobrar</button>
+
+      <p class="fallidos" id="fallidos"></p>
+
+      <p class="result" id="result"></p>
+
+      <p class="resultado" id="resultado"></p>
+    </main>
+    <script src="proyecto4.js"></script>
+  </body>
+</html>
