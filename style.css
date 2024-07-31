@@ -97,18 +97,10 @@ button:active {
 }
 
 .input{
-    border-radius: 8px;
-    border-style: none;
-    width: 150px;
-    height: 25px;
-    margin: 20px;
+  border-radius: 8px;
+  border-style: none;
+  width: 150px;
+  height: 25px;
+  margin: 20px;
     
-}
-
-.winner{
-    color: greenyellow;
-}
-
-.loser{
-    color: red;
 }
