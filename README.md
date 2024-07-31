@@ -1,4 +1,5 @@
 Juego del Ahorcado
+
 Descripción
 Este es un juego del ahorcado diseñado para practicar y mejorar mis habilidades de programación en JavaScript. Fue perfecto para retomar la práctica después de un tiempo sin programar.
 
