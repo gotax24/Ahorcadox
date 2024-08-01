@@ -102,5 +102,14 @@ button:active {
   width: 150px;
   height: 25px;
   margin: 20px;
-    
+}
+
+footer{
+  color: #ffff;
+  font-size: 28px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-align: center;
+  position: relative;
+  top: 80px;
 }
