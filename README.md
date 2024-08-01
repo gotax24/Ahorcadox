@@ -15,7 +15,9 @@ Cómo jugar
 4. Ganar o perder:
   - Si adivinas todas las letras de la palabra antes de que se acaben los intentos, ¡ganas!
   - Si te quedas sin intentos y no has adivinado la palabra, pierdes y el juego se reiniciará automáticamente.
+
 Instrucciones adicionales
   * Inicio de un nuevo juego: Si deseas iniciar un nuevo juego, asegúrate de haber terminado el juego actual antes de ingresar una nueva palabra secreta.
   * Visualización: La palabra se mostrará con guiones bajos (_) en lugar de las letras no adivinadas, y las letras adivinadas correctamente aparecerán en su lugar correspondiente.
+
 Diviértete jugando y ¡usa tus intentos sabiamente!
