@@ -51,7 +51,7 @@ const iniciar = () => {
 
 //funcion para comprobar letra por letra en el juego
 const comprobrar = () => {
-  let letra = document.getElementById("intentos").value;
+  let letra = document.getElementById("intentos").value.toLowerCase();
   let ol = document.getElementById("fallidos");
   let enconntrada = false;
 
