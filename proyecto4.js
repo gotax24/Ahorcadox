@@ -28,7 +28,7 @@ const reiniciar = () => {
 
 //funcion para iniciar el juego solo se una vez por partida
 const iniciar = () => {
-  let palabra = document.getElementById("palabra").value;
+  let palabra = document.getElementById("palabra").value.toLowerCase();
 
   //si la palabra esta vacia no se inicia
   if (palabra === "") {
